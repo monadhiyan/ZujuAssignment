@@ -2,8 +2,8 @@
 
 Hi,
 
-In this assignment i have covered the below mentioned scenarios.Please reach out to me if you have any questions regarding the same.
-Thank you for this opportunity.
+In this assignment,I have covered the below mentioned scenarios.Please reach out to me if you have any questions regarding the same.
+Thank you for this opportunity!
 
 
 **Scenarios covered**
