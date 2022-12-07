@@ -43,7 +43,7 @@ Thank you for this opportunity!
 *Assert if Machester city is now in favourite Teams list for this user
 *Prerequisite:Manchester City Team should not already be a favourite.
 *Tested on existing user:
-**existinguseremail1":"zujutest+automation@gmail.com",
+**existinguseremail1":"zujutest+automation@gmail.com"
 "existu1correctpwd":"TestAuto123",**
 
 **5.TeamAddfavframe.js**
