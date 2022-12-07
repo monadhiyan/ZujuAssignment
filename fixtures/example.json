@@ -1,0 +1,16 @@
+{
+ "website": "https://www.zujugp.com/",
+  "name": "bob",
+  "gender":"female",
+  "existinguseremail":"Zujuexistingu@gmail.com",
+  "newuser":"zujunewu@gmail.com",
+  "existinguseremail1":"zujutest+automation@gmail.com",
+  "existu1correctpwd":"TestAuto123",
+  "existucorrectpwd":"pwdforexisting1!",
+  "newusercorrectpwd":"pwdfornewuser1!",
+  "incorrectpassword":"wrongpassword",
+  "email":"etemnulemt@gmail.com",
+  "addteam1":"Manchester City",
+  "addteam2":"Viet A 11",
+  "addteam3":"New Team"
+}
